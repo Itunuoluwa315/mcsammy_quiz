@@ -5,9 +5,9 @@ class Footer extends React.Component{
         return (
             <footer>
                 <small>
-                    Welcome to Zion School Quiz app <a href="https://github.com/Flopet17/quiz-app">ZION</a>. Pathway to Progress.
+                    Welcome to Zion Quizz App<a href="http://zionschools.com.ng/">Zion</a>. Pathway to Progress.
                 </small>
-                <p>Built with <span>&hearts;</span> by <a href="http://florin-pop.com">Florin Pop</a></p>
+                <p>Built with <span>&hearts;</span> by <a href="https://github.com/Itunuoluwa315">Mcsammy</a></p>
             </footer>
         )
     }
